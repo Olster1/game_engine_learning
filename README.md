@@ -103,3 +103,6 @@ https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUk
 ## Anti alisaing
 Good article on MSAA & alpha to coverage. 
 https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f
+
+## Books
+3d math primer for graphics and game development by Ian Paberry & Fletcher Dunn (very good for learning matrixes & 3d rotation & homogeneous coordinates)
