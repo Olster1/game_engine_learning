@@ -95,3 +95,11 @@ https://www.redblobgames.com/pathfinding/a-star/introduction.html
 Jon on entity systems
 
 https://www.youtube.com/watch?v=ZHqFrNyLlpA
+
+## General 3d game resources
+Good playlist by ThinMatrix on some general topics about 3d game development.
+https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+
+## Anti alisaing
+Good article on MSAA & alpha to coverage. 
+https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f
