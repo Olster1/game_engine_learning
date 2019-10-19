@@ -17,7 +17,7 @@ Jon Blow building an animator controller:
 Animator Control 1: https://www.youtube.com/watch?v=xfl0jHp1hAM
 Animator Control 2: https://www.youtube.com/watch?v=qVRxJ-Q4qXs
 
-### Jon Blow doing blending improvements:
+Jon Blow doing blending improvements:
 
 https://www.youtube.com/watch?v=DKL-8EmqoIU
 
@@ -96,6 +96,12 @@ Jon on entity systems
 
 https://www.youtube.com/watch?v=ZHqFrNyLlpA
 
+## Version Control
+
+## Audio
+
+## Asset Loading
+
 ## General 3d game resources
 Good playlist by ThinMatrix on some general topics about 3d game development.
 https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
@@ -106,3 +112,6 @@ https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverag
 
 ## Books
 3d math primer for graphics and game development by Ian Paberry & Fletcher Dunn (very good for learning matrixes & 3d rotation & homogeneous coordinates)
+
+## Computer History books
+The Innovators by Walter Issacason 
