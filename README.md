@@ -17,7 +17,7 @@ Jon Blow building an animator controller:
 Animator Control 1: https://www.youtube.com/watch?v=xfl0jHp1hAM
 Animator Control 2: https://www.youtube.com/watch?v=qVRxJ-Q4qXs
 
-Jon Blow doing blending improvements:
+### Jon Blow doing blending improvements:
 
 https://www.youtube.com/watch?v=DKL-8EmqoIU
 
@@ -48,6 +48,50 @@ https://www.youtube.com/watch?v=DKL-8EmqoIU
  Making particles even cooler: https://www.youtube.com/watch?v=pAsFngEL8eI&t=861s
 
 
+## GUI 
+Casey on IMGUI:
+https://www.youtube.com/watch?v=Z1qyvQsjK5Y
 
+## Profiler
 
+## Unicode 
+Joel Sotware: 
 
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+Wikipedia page is very good on utf-8 description & example:
+https://en.wikipedia.org/wiki/UTF-8
+
+## Fonts
+
+## Physics 
+
+Good resources & talks by Erin Catto
+
+https://box2d.org/downloads/
+
+box2d lite built for learning basics of physics engine
+https://github.com/erincatto/box2d-lite
+
+### Graphics
+Very good site for learning about 3d graphics.
+Covers materials, lights, shadow mapping & more advance topics like SSAO, Bloom, Deffered Shading.  
+https://learnopengl.com
+
+## Shadows
+Directional light shadow maps:
+https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
+
+Point light shadow maps: 
+https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows
+
+## AI 
+Introduction to A* algorithm 
+
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
+
+## Entity Systems
+
+Jon on entity systems
+
+https://www.youtube.com/watch?v=ZHqFrNyLlpA
