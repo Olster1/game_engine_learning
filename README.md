@@ -12,13 +12,13 @@ https://www.youtube.com/watch?v=f3Cr8Yx3GGA
 Casey Muratori on Mesh Skinning - another good intro to mesh skinning
 https://www.youtube.com/watch?v=sd-d4Z7utVM
 
-Jon Blow building an animator controller:
+### Jon Blow building an animator controller:
 
 First video is Jon setting up a text file that is going to be used for the animation state machine.
 Animator Control 1: https://www.youtube.com/watch?v=xfl0jHp1hAM
 Animator Control 2: https://www.youtube.com/watch?v=qVRxJ-Q4qXs
 
-Jon Blow doing blending improvements:
+### Jon Blow doing blending improvements:
 
 https://www.youtube.com/watch?v=DKL-8EmqoIU
 
@@ -55,6 +55,14 @@ https://www.youtube.com/watch?v=Z1qyvQsjK5Y
 
 ## Profiler
 
+## In game editor
+
+Drop down console 
+
+## Metaprogramming 
+Casey's video
+
+
 ## Unicode 
 Joel Sotware: 
 
@@ -71,13 +79,34 @@ Good resources & talks by Erin Catto
 
 https://box2d.org/downloads/
 
-box2d lite built for learning basics of physics engine
+box2d lite built for learning basics of physics engine architecture
 https://github.com/erincatto/box2d-lite
 
-### Graphics
+
+## 3d camera
+### Pinhole camera 
+### Perspective matrix
+
+## Graphics
 Very good site for learning about 3d graphics.
 Covers materials, lights, shadow mapping & more advance topics like SSAO, Bloom, Deffered Shading.  
 https://learnopengl.com
+### Materials
+
+### Lights
+
+### Bloom
+
+### Lens flare 
+
+### God rays
+### Reflections
+
+### depth of field
+
+### pbr & bdrp
+
+
 
 ## Shadows
 Directional light shadow maps:
@@ -85,6 +114,24 @@ https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
 
 Point light shadow maps: 
 https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows
+
+### Cascading shadow maps
+
+## Files
+
+## Terrain
+### Height maps
+
+### Blend maps
+
+### Grass planting
+
+## procedural generation
+
+### Noise
+### Fractal Brownian motion (FBR)
+### Perlin noise
+
 
 ## AI 
 Introduction to A* algorithm 
