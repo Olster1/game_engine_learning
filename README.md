@@ -47,7 +47,10 @@ https://www.youtube.com/watch?v=DKL-8EmqoIU
  Making particles Cooler: https://www.youtube.com/watch?v=5c-mtq_WjaE
  
  Making particles even cooler: https://www.youtube.com/watch?v=pAsFngEL8eI&t=861s
+ 
+Soft particles
 
+http://blog.wolfire.com/2010/04/Soft-Particles
 
 ## GUI 
 Casey on IMGUI:
@@ -106,6 +109,7 @@ https://learnopengl.com
 
 ### pbr & bdrp
 
+### Level of Detail (LOD)
 
 
 ## Shadows
@@ -131,6 +135,12 @@ https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows
 ### Noise
 ### Fractal Brownian motion (FBR)
 ### Perlin noise
+
+## direct X
+## opengl
+## metal
+## vulcan
+
 
 
 ## AI 
@@ -158,8 +168,22 @@ https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUk
 Good article on MSAA & alpha to coverage. 
 https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f
 
-## Books
+## Higher order game logic
+
+## Art of Making games
+Talk about implementing the most important thing next & not ratholing
+
+https://youtu.be/GK7ntA7a2vk
+
+
+## good yextbooks
 3d math primer for graphics and game development by Ian Paberry & Fletcher Dunn (very good for learning matrixes & 3d rotation & homogeneous coordinates)
 
+
 ## Computer History books
-The Innovators by Walter Issacason 
+The Innovators by Walter Issacason
+ Masters of Doom
+Hackers: hereos of the computer revolution
+Ideas Man by Paul Allen
+The old new things by Raymond Chen
+
