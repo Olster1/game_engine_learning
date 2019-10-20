@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=DKL-8EmqoIU
  
  Making particles even cooler: https://www.youtube.com/watch?v=pAsFngEL8eI&t=861s
  
-Soft particles
+### Soft particles
 
 http://blog.wolfire.com/2010/04/Soft-Particles
 
@@ -94,6 +94,19 @@ https://github.com/erincatto/box2d-lite
 Very good site for learning about 3d graphics.
 Covers materials, lights, shadow mapping & more advance topics like SSAO, Bloom, Deffered Shading.  
 https://learnopengl.com
+
+### 2d games
+
+Good overview on how to use the graphics card efficiently in 2d games (batching draw calls together & reducing change of shaders & other state). Also very relevant to 3d.
+https://youtu.be/4BISSS3MCNA
+
+### render engine architecture 
+
+Good general talk on rendering engines.
+
+https://youtu.be/TghSVKsDHy4
+
+
 ### Materials
 
 ### Lights
