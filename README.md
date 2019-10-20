@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=sd-d4Z7utVM
 
 Jon Blow building an animator controller:
 
+First video is Jon setting up a text file that is going to be used for the animation state machine.
 Animator Control 1: https://www.youtube.com/watch?v=xfl0jHp1hAM
 Animator Control 2: https://www.youtube.com/watch?v=qVRxJ-Q4qXs
 
