@@ -120,7 +120,30 @@ https://youtu.be/TghSVKsDHy4
 
 ### depth of field
 
-### pbr & bdrp
+### mip-maps
+Thin matrix video
+Handmade hero 
+
+## Ray Tracing
+Casey's videos
+Scratch pixel articles
+
+
+## Lighting 
+
+### voxel lighting
+Handmade hero
+
+### point lights
+### global illumination methods
+
+### lightmaps
+
+
+### pbr & brdf
+Wolfire blog post explaining pbr
+
+http://blog.wolfire.com/2015/10/Physically-based-rendering
 
 ### Level of Detail (LOD)
 
@@ -139,7 +162,13 @@ Good overview on handling file names on different platforms & where to save file
 
 http://blog.wolfire.com/2012/05/Game-File-Systems-File-Paths
 
+## Compression
+Casey on LZ compression
+Hmh conference rad game tools talk
+
 ## collision detection
+Minowski sums with ray cast
+Handmade videos
 SAT
 GJK
 Casey's talk about GJK. Note, Casey's version just gives you a yes no answer. Normally append this algirithm with EPA to get resolution info
@@ -159,6 +188,14 @@ Thin matrix, godot tutorial, monster blog
 Thin matrix, uncharted talk, witness blog posts
 ### Grass planting
 Casey's blog posts
+
+### krigener
+Witness post
+
+### collision with terrain
+Monter blog
+Thin matrix videos
+
 
 ## procedural generation
 
@@ -189,6 +226,12 @@ https://www.youtube.com/watch?v=ZHqFrNyLlpA
 ## Audio
 
 ## Asset Loading
+
+## Maths
+### vectors
+### dot product
+### cross product
+
 
 ## General 3d game resources
 Good playlist by ThinMatrix on some general topics about 3d game development.
