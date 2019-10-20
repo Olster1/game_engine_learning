@@ -135,13 +135,30 @@ https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows
 ### Cascading shadow maps
 
 ## Files
+Good overview on handling file names on different platforms & where to save files
+
+http://blog.wolfire.com/2012/05/Game-File-Systems-File-Paths
+
+## collision detection
+SAT
+GJK
+Casey's talk about GJK. Note, Casey's version just gives you a yes no answer. Normally append this algirithm with EPA to get resolution info
+
+https://youtu.be/Qupqu1xe7Io
+
+Gjk with barycentric coordinates - this of gjk uses barycentric coordinates before the shapes collide to find nearest position &collision normal.
 
 ## Terrain
+
+
 ### Height maps
+Thin matrix, godot tutorial, monster blog
 
 ### Blend maps
 
+Thin matrix, uncharted talk, witness blog posts
 ### Grass planting
+Casey's blog posts
 
 ## procedural generation
 
