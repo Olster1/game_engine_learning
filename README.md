@@ -252,12 +252,109 @@ https://www.youtube.com/watch?v=ZHqFrNyLlpA
 
 ## Audio
 
+### Handmade Hero
+Intializing DirectSound
+
+https://hero.handmade.network/episode/code/day007/
+
+Writing a Square Wave to DirectSound
+
+https://hero.handmade.network/episode/code/day008/
+
+Variable-pitch sin wave output
+
+https://hero.handmade.network/episode/code/day009/
+
+Plaform Independent Sound Ouput 
+
+https://hero.handmade.network/episode/code/day012/
+
+Loading Wav Files
+
+https://hero.handmade.network/episode/code/day138/
+
+Introduction to Sound Mixing
+
+https://hero.handmade.network/episode/code/day139/
+
+Implmeneted a Sound Mixer
+
+https://hero.handmade.network/episode/code/day140/
+
+Streaming large audio in chunks
+
+https://hero.handmade.network/episode/code/day141/
+
+Per sample sound interpolation
+
+https://hero.handmade.network/episode/code/day142/
+
+Pitch shifting in the mixer
+
+https://hero.handmade.network/episode/code/day143/
+
+**Optimising the mixer:**
+
+SSE mixer Pre & Post loops
+
+https://hero.handmade.network/episode/code/day144/
+
+SSE mixer main loop
+
+https://hero.handmade.network/episode/code/day145/
+
+Accumulation vs Explicit Calculation
+
+https://hero.handmade.network/episode/code/day146/
+
+
+
 ## Asset Loading
 
 ## Maths
 ### vectors
 ### dot product
 ### cross product
+
+## Optimisation 
+
+### SIMD (SSE)
+
+## Threads
+
+### Handmade Hero:
+
+Introduction to Threading 
+
+https://hero.handmade.network/episode/code/day122/
+
+Interlocked Operations 
+
+https://hero.handmade.network/episode/code/day123/
+
+Memory Barriers & Semaphores
+
+https://hero.handmade.network/episode/code/day124/
+
+Abstracting the work Queue
+
+https://hero.handmade.network/episode/code/day125/
+
+Circular FIFO work queue
+
+https://hero.handmade.network/episode/code/day126/
+
+**Example of using the thread system in Handmade Hero**
+
+Aligning Rendering Memory 
+
+https://hero.handmade.network/episode/code/day127/
+
+
+Asynchronous Ground Chunk Composition
+
+https://hero.handmade.network/episode/code/day131/
+
 
 
 ## General 3d game resources
