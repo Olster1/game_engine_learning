@@ -22,6 +22,20 @@ Animator Control 2: https://www.youtube.com/watch?v=qVRxJ-Q4qXs
 
 https://www.youtube.com/watch?v=DKL-8EmqoIU
 
+### Jon Blow 
+
+Hacking quartenions 
+
+http://number-none.com/product/Hacking%20Quaternions/index.html
+
+IK with quartenion limits
+
+http://number-none.com/product/IK%20with%20Quaternion%20Joint%20Limits/index.html
+
+Understanding slerp then not using it
+
+http://number-none.com/product/Understanding%20Slerp,%20Then%20Not%20Using%20It/index.html
+
 ## Particle Systems
 
  ### Handmade Hero: 
@@ -55,6 +69,8 @@ http://blog.wolfire.com/2010/04/Soft-Particles
 ## GUI 
 Casey on IMGUI:
 https://www.youtube.com/watch?v=Z1qyvQsjK5Y
+
+
 
 ##2d games
 
