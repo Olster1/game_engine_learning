@@ -56,6 +56,17 @@ http://blog.wolfire.com/2010/04/Soft-Particles
 Casey on IMGUI:
 https://www.youtube.com/watch?v=Z1qyvQsjK5Y
 
+##2d games
+
+### Smooth Pixel art rendering
+
+Casey talking about smooth pixel art
+https://youtu.be/Yu8k7a1hQuU
+
+D7 saumari shader example
+
+https://www.shadertoy.com/view/MlB3D3
+
 ## Profiler
 
 ## In game editor
